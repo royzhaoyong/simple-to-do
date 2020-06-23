@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/royzhaoyong/simple-to-do/static/css/main.5f361e03.chunk.css",
+    "main.js": "/royzhaoyong/simple-to-do/static/js/main.631fe96c.chunk.js",
+    "main.js.map": "/royzhaoyong/simple-to-do/static/js/main.631fe96c.chunk.js.map",
+    "runtime-main.js": "/royzhaoyong/simple-to-do/static/js/runtime-main.43f05aff.js",
+    "runtime-main.js.map": "/royzhaoyong/simple-to-do/static/js/runtime-main.43f05aff.js.map",
+    "static/js/2.763b34e5.chunk.js": "/royzhaoyong/simple-to-do/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/royzhaoyong/simple-to-do/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/royzhaoyong/simple-to-do/index.html",
+    "precache-manifest.be8470da0930707bcbdba3a696873796.js": "/royzhaoyong/simple-to-do/precache-manifest.be8470da0930707bcbdba3a696873796.js",
+    "service-worker.js": "/royzhaoyong/simple-to-do/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/royzhaoyong/simple-to-do/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/royzhaoyong/simple-to-do/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/royzhaoyong/simple-to-do/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43f05aff.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.631fe96c.chunk.js"
+  ]
+}
